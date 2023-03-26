@@ -6,7 +6,7 @@
  * @size: size of the triangle
  */
 
-	void print_triangle(int size)
+void print_triangle(int size)
 {
 	if (size <= 0)
 	{
@@ -15,6 +15,7 @@
 	else
 	{
 		int i, j;
+
 		for (i = 1; i <= size; i++)
 		{
 

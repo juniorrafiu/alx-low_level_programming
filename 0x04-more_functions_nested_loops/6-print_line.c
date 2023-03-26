@@ -10,6 +10,7 @@
 void print_line(int n)
 {
 	int y;
+
 	if (n > 0)
 	{
 		for (y = 1; y <= n; y++)

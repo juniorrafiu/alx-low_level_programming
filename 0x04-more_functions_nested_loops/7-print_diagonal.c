@@ -27,6 +27,7 @@ void print_diagonal(int n)
 			else
 			{
 				int s; /* integer for spaces*/
+
 				for (s = 2; s <= y; s++)
 				{
 					_putchar(' ');
