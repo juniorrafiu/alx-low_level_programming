@@ -2,7 +2,7 @@
 #include "lists.h"
 /**
  * *insert_dnodeint_at_index -  inserts a new node at a given position
- * @*h: pointer to doubly linked list
+ * @h: pointer to doubly linked list
  * @n: value of node
  * @idx: index
  * Return: new node

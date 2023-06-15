@@ -2,7 +2,7 @@
 #include "lists.h"
 /**
  * *add_dnodeint_end - adds a new node at the end of doubly linked list
- * @*head: pointer to another pointer
+ * @head: pointer to another pointer
  * @n: value of node
  * Return: new node
  */
