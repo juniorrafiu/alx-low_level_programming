@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """island perimeter of the measuring function"""
 
+
 def island_perimeter(grid):
     """grid represents water by zero and land by one """
     width = len(grid[0])
